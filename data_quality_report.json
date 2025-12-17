@@ -1,0 +1,450 @@
+[
+  {
+    "file": "comercializacao_filtrada.csv",
+    "rows": 62,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "id,control,Produto,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 62
+      }
+    ]
+  },
+  {
+    "file": "Comercializacao.csv",
+    "rows": 62,
+    "cols": 57,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "id",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 62
+      },
+      {
+        "column": "control",
+        "missing": 1,
+        "missing_pct": 0.016129032258064516,
+        "unique": 58
+      },
+      {
+        "column": "Produto",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 56
+      },
+      {
+        "column": "1970",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1971",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1972",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1973",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1974",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1975",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1976",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 29
+      },
+      {
+        "column": "1977",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 29
+      },
+      {
+        "column": "1978",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1979",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1980",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1981",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1982",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1983",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1984",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1985",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1986",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1987",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1988",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1989",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1990",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1991",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 27
+      },
+      {
+        "column": "1992",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1993",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 29
+      },
+      {
+        "column": "1994",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 28
+      },
+      {
+        "column": "1995",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 30
+      },
+      {
+        "column": "1996",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 30
+      },
+      {
+        "column": "1997",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 32
+      },
+      {
+        "column": "1998",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 31
+      },
+      {
+        "column": "1999",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 32
+      },
+      {
+        "column": "2000",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 30
+      },
+      {
+        "column": "2001",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 31
+      },
+      {
+        "column": "2002",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 30
+      },
+      {
+        "column": "2003",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 34
+      },
+      {
+        "column": "2004",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 42
+      },
+      {
+        "column": "2005",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 42
+      },
+      {
+        "column": "2006",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 42
+      },
+      {
+        "column": "2007",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 40
+      },
+      {
+        "column": "2008",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 42
+      },
+      {
+        "column": "2009",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 40
+      },
+      {
+        "column": "2010",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 44
+      },
+      {
+        "column": "2011",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 44
+      },
+      {
+        "column": "2012",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 44
+      },
+      {
+        "column": "2013",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 44
+      },
+      {
+        "column": "2014",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 43
+      },
+      {
+        "column": "2015",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 43
+      },
+      {
+        "column": "2016",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 44
+      },
+      {
+        "column": "2017",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 42
+      },
+      {
+        "column": "2018",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 47
+      },
+      {
+        "column": "2019",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 52
+      },
+      {
+        "column": "2020",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 54
+      },
+      {
+        "column": "2021",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 51
+      },
+      {
+        "column": "2022",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 51
+      },
+      {
+        "column": "2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 53
+      }
+    ]
+  },
+  {
+    "file": "exportacao_qtd.csv",
+    "rows": 137,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "Id,País,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 137
+      }
+    ]
+  },
+  {
+    "file": "exportacao_valor.csv",
+    "rows": 137,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "Id,País,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 137
+      }
+    ]
+  },
+  {
+    "file": "importacao_qtd.csv",
+    "rows": 68,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "Id,País,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 68
+      }
+    ]
+  },
+  {
+    "file": "importacao_valor.csv",
+    "rows": 68,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "Id,País,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 68
+      }
+    ]
+  },
+  {
+    "file": "producao_filtrada.csv",
+    "rows": 51,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "id,control,produto,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 51
+      }
+    ]
+  },
+  {
+    "file": "processamento_filtrado.csv",
+    "rows": 139,
+    "cols": 1,
+    "duplicate_rows": 0,
+    "columns": [
+      {
+        "column": "id,control,cultivar,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023",
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 139
+      }
+    ]
+  }
+]

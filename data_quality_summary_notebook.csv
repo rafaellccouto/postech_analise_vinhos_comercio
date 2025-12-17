@@ -1,0 +1,9 @@
+name,rows,cols,duplicate_rows
+comercializacaofiltrada,62,18,0
+df_comercializacao,62,57,0
+exportacao_qtd,137,17,0
+exportacao_valor,137,17,0
+importacao_qtd,68,17,0
+importacao_valor,68,17,0
+df_producao,51,57,0
+df_processamento,139,57,0

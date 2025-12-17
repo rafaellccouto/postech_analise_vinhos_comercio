@@ -1,0 +1,9 @@
+file,rows,cols,duplicate_rows
+comercializacao_filtrada.csv,62,1,0
+Comercializacao.csv,62,57,0
+exportacao_qtd.csv,137,1,0
+exportacao_valor.csv,137,1,0
+importacao_qtd.csv,68,1,0
+importacao_valor.csv,68,1,0
+producao_filtrada.csv,51,1,0
+processamento_filtrado.csv,139,1,0
